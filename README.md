@@ -3,6 +3,9 @@ Setup Cadence Full for circuits and PCB Simulation
 
 Video for setup:
     https://youtu.be/06S1MDm_Xx4
+    
+For Program:
+	https://getintopc.com/softwares/3d-designing/cadence-allegro-orcad-17-20-037-free-download-6523491/
 
 1- Extract files(Password 123)
 

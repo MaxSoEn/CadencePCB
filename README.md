@@ -34,15 +34,16 @@ Video for setup:
 7- In "C:\Cadence\LicenseManager\" open "LicenseServerConfiguration.exe" and point "License.dat" (Click Next and Finish)
 
 8- In "C:\Cadence\LicenseManager" open "license.dat" with editor and REMOVE ONLY two lines after "DAEMON cdslmd"
-		SERVER localhost ID = 07071982 5280
-		DAEMON cdslmd
-		"C:\Cadence\SPB_17.2\LicenseManager\cdslmd
-		.exe" PORT=3000
+		
+	SERVER localhost ID = 07071982 5280
+	DAEMON cdslmd
+	"C:\Cadence\SPB_17.2\LicenseManager\cdslmd
+	.exe" PORT=3000
 
-	Will be:
+Will be:
 
-		SERVER localhost ID = 07071982 5280
-		DAEMON cdslmd
+	SERVER localhost ID = 07071982 5280
+	DAEMON cdslmd
 
 9- *****Important*****
 	In "C:\Cadence\LicenseManager" open "lmtools.exe", select "Start/Stop/Reread" Tab and click on "Stop Server"

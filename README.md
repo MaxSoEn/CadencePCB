@@ -46,10 +46,11 @@ Will be:
 	DAEMON cdslmd
 
 9- *****Important*****
-	In "C:\Cadence\LicenseManager" open "lmtools.exe", select "Start/Stop/Reread" Tab and click on "Stop Server"
-	if you found "Unable to Stop" so you should stop service manually
-		from Search bar Type "Service" and Run it as administrator 
-		Find "Cadence License Manager" Right Click on it and choose "stop"
+
+In "C:\Cadence\LicenseManager" open "lmtools.exe", select "Start/Stop/Reread" Tab and click on "Stop Server"
+if you found "Unable to Stop" so you should stop service manually
+	from Search bar Type "Service" and Run it as administrator 
+	Find "Cadence License Manager" Right Click on it and choose "stop"
 
 10- In "lmtools.exe" program click on "Start Server"
 	you Should see "Server Start Successful" 
